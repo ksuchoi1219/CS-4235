@@ -1,0 +1,206 @@
+Quiz 1: Security Mindset and Software Security
+Table of Contents
+
+Part 1 of 2 - True/False Questions
+
+Question 1 of 20
+5.0 Points
+Security mechanisms typically do not involve more than one particular algorithm or protocol.
+ True x
+ False
+Reset Selection
+
+Question 2 of 20
+5.0 Points
+The first step in devising security services and mechanisms is to develop a security policy.
+ True x
+ False
+Reset Selection
+
+Question 3 of 20
+5.0 Points
+To exploit any type of buffer overflow the attacker needs to identify a buffer overflow vulnerability in some program that can be triggered using externally sourced data under the attackers control.
+ True x
+ False
+Reset Selection
+
+Question 4 of 20
+5.0 Points
+Shellcode is not specific to a particular processor architecture.
+ True
+ False x
+Reset Selection
+
+Question 5 of 20
+5.0 Points
+An attacker can generally determine in advance exactly where the targeted buffer will be located in the stack frame of the function in which it is defined.
+ True
+ False x
+Reset Selection
+
+Question 6 of 20
+5.0 Points
+It is possible to write a compiler tool to check any C program and identify all possible buffer overflow bugs.
+ True
+ False x
+Reset Selection
+
+Question 7 of 20
+5.0 Points
+The OpenSSL heartbleed vulnerability would have been prevented if OpenSSL had been implemented in Java (and the Java runtime environment works properly).
+ True	x
+ False
+Reset Selection
+
+Question 8 of 20
+5.0 Points
+ASLR (if implemented correctly) can prevent return-to-libc attacks.
+ True	x
+ False
+Reset Selection
+
+Part 2 of 2 - Multiple Choice Questions
+
+Question 9 of 20
+5.0 Points
+_____ assures that individuals control or influence what information related to them may be collected and stored and by whom and to whom that information may be disclosed.
+
+A. Availability	
+
+B. Privacy	x
+
+C. System Integrity	
+
+D. Data Integrity	Reset Selection
+
+Question 10 of 20
+5.0 Points
+____ assures that a system performs its intended function in an unimpaired manner, free from deliberate or inadvertent unauthorized manipulation of the system.
+
+A. System Integrity	x
+
+B. Availability	
+
+C. Data Integrity	
+
+D. Confidentiality	Reset Selection
+
+Question 11 of 20
+5.0 Points
+A loss of _______ is the unauthorized disclosure of information.
+
+A. confidentiality	x
+
+B. authenticity	
+
+C. integrity	
+
+D. availability	Reset Selection
+
+Question 12 of 20
+5.0 Points
+A flaw or weakness in a system’s design, implementation, or operation and management that could be exploited to violate the system’s security policy is a(n) ______.
+
+A. countermeasure	
+
+B. adversary	
+
+C. vulnerability	x
+
+D. risk	Reset Selection
+
+Question 13 of 20
+5.0 Points
+An assault on system security that derives from an intelligent act that is a deliberate attempt to evade security services and violate the security policy of a system is a(n) _____.
+
+A. risk	
+
+B. attack	x
+
+C. asset	
+
+D. vulnerability	Reset Selection
+
+Question 14 of 20
+5.0 Points
+A(n) ______ is an action, device, procedure, or technique that reduces a threat, a vulnerability, or an attack by eliminating or preventing it, by minimizing the harm it can cause, or by discovering and reporting it so that correct action can be taken.
+
+A. attack	
+
+B. adversary	
+
+C. countermeasure	x
+
+D. protocol	Reset Selection
+
+Question 15 of 20
+5.0 Points
+An example of ______ is an attempt by an unauthorized user to gain access to a system by posing as an authorized user.
+
+A. masquerade	x
+
+B. repudiation	
+
+C. interception	
+
+D. inference	Reset Selection
+
+Question 16 of 20
+5.0 Points
+The assurance that data received are exactly as sent by an authorized entity is _____.
+
+A. authentication	
+
+B. access control	
+
+C. data confidentiality	
+
+D. data integrity	x
+
+Question 17 of 20
+5.0 Points
+A consequence of a buffer overflow error is _____.
+
+A. corruption of data used by the program	
+
+B. unexpected transfer of control in the program	
+
+C. possible memory access violation	
+
+D. all of the above	x
+
+Question 18 of 20
+5.0 Points
+The function of ______ was to transfer control to a user command-line interpreter, which gave access to any program available on the system with the privileges of the attacked program.
+
+A. shellcode	x
+
+B. stacking	
+
+C. no-execute	
+
+D. memory management	
+
+Question 19 of 20
+5.0 Points
+______ is a form of buffer overflow attack.
+
+A. Heap overflows	
+
+B. Return to system call	
+
+C. Replacement stack frame	
+
+D. All of the above	x
+
+Question 20 of 20
+5.0 Points
+A buffer can be located ______.
+
+A. in the heap	
+
+B. on the stack	
+
+C. in the data section of the process	
+
+D. all of the above x
