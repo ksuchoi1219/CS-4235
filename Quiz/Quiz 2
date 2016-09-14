@@ -1,0 +1,205 @@
+Part 1 of 2 - True/False Questions
+
+Question 1 of 20
+5.0 Points
+Each layer of code needs appropriate hardening measures in place to provide appropriate security services.
+ A. True x
+ B. False
+Reset Selection
+
+Question 2 of 20
+5.0 Points
+It is possible for a system to be compromised during the installation process.
+ A. True x
+ B. False
+Reset Selection
+
+Question 3 of 20
+5.0 Points
+The default configuration for many operating systems usually maximizes security.
+ A. True
+ B. False x
+Reset Selection
+
+Question 4 of 20
+5.0 Points
+A malicious driver can potentially bypass many security controls to install malware.
+ A. True x
+ B. False 
+Reset Selection
+=> Default configuration is set to maximize ease of use and functionality rather than security
+
+Question 5 of 20
+5.0 Points
+Performing regular backups of data on a system is a critical control that assists with maintaining the integrity of the system and user data.
+ A. True x
+ B. False
+Reset Selection
+
+Question 6 of 20
+5.0 Points
+Many users choose a password that is too short or too easy to guess because it is hard for users to remember long and random passwords.
+ A. True x
+ B. False
+Reset Selection
+
+Question 7 of 20
+5.0 Points
+User authentication is a procedure that allows communicating parties to verify that the contents of a received message have not been altered and that the source is authentic.
+ A. True
+ B. False x
+Reset Selection
+=> The explanation in the question is about message authentication.
+
+Question 8 of 20
+5.0 Points
+In a biometric scheme some physical characteristic of the individual is mapped into a digital representation.
+ A. True x
+ B. False
+Reset Selection
+
+Part 2 of 2 - Multiple Choice Questions
+
+Question 9 of 20
+5.0 Points
+Which of the following need to be taken into consideration during the system security planning process?
+
+A. how users are authenticated	
+
+B. the categories of users of the system	
+
+C. what access the system has to information stored on other hosts	
+
+D. all of the above x
+
+Question 10 of 20
+5.0 Points
+The following steps should be used to secure an operating system:
+
+A. test the security of the basic operating system	
+
+B. remove unnecessary services	
+
+C. install and patch the operating system	
+
+D. all of the above x
+
+Question 11 of 20
+5.0 Points
+_____ applications is a control that limits the programs that can execute on the system to just those in an explicit list.
+
+A. Virtualizing	
+
+B. White listing x	
+
+C. Logging	
+
+D. Patching
+
+Question 12 of 20
+5.0 Points
+The most important changes needed to improve system security are to _____.
+
+A. disable remotely accessible services that are not required	
+
+B. ensure that applications and services that are needed are appropriately configured	
+
+C. disable services and applications that are not required	
+
+D. all of the above	x
+
+Question 13 of 20
+5.0 Points
+Security concerns that result from the use of virtualized systems include ______.
+
+A. guest OS isolation	
+
+B. guest OS monitoring by the hypervisor	
+
+C. virtualized environment security	
+
+D. all of the above	x
+
+Question 14 of 20
+5.0 Points
+Presenting or generating authentication information that corroborates the binding between the entity and the identifier is the _______.
+
+A. identification step	
+
+B. authentication step	
+
+C. verification step	x
+
+D. corroboration step	
+
+Question 15 of 20
+5.0 Points
+Recognition by fingerprint, retina, and face are examples of _______.
+
+A. face recognition	
+
+B. static biometrics	x
+
+C. dynamic biometrics	
+
+D. token authentication	Reset Selection
+
+Question 16 of 20
+5.0 Points
+Voice pattern, handwriting characteristics, and typing rhythm are examples _______.
+
+A. face recognition	
+
+B. static biometrics	
+
+C. dynamic biometrics	x
+
+D. token authentication	Reset Selection
+
+Question 17 of 20
+5.0 Points
+A _____ strategy is one in which the system periodically runs its own password cracker to find guessable passwords.
+
+A. user education	
+
+B. reactive password checking	x
+
+C. proactive password checking	
+
+D. computer-generated password	Reset Selection
+
+Question 18 of 20
+5.0 Points
+Each individual who is to be included in the database of authorized users must first be ______ in the system.
+
+A. verified	
+
+B. identified	
+
+C. authenticated	
+
+D. enrolled	x
+
+Question 19 of 20
+5.0 Points
+Which of the following is an example of multi-factor authentication:
+
+A. Enter both a group password and a user password	
+
+B. Enter a pin number and put a finger on fingerprint reader	
+
+C. Use an authentication token (e.g., a smartcard)	
+
+D. All of the above	x
+
+Question 20 of 20
+5.0 Points
+Which of the following is a threat to or concern of biometric authentication:
+
+A. Inherent imprecision (e.g., two people may have their fingerprints digitally interpreted as the same)	
+
+B. Impersonation (e.g., use a voice recording)	
+
+C. Coercion (e.g., force the user to put his finger on the fingerprint reader)	
+
+D. All of the above	x
